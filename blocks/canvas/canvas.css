@@ -1,0 +1,14 @@
+.canvas {
+  box-sizing: border-box;
+
+  display: grid;
+  width: fit-content;
+
+  margin: 20px auto 0;
+  
+  box-shadow: 0 0 30px rgba(0, 0, 0, .1);
+
+  /* border: 1px solid #e3e3e3; */
+  border-radius: 10px;
+  overflow: hidden;
+}

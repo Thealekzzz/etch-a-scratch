@@ -1,0 +1,17 @@
+.settings {
+  box-sizing: border-box;
+
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+
+  width: 600px;
+
+  margin: 30px auto 0;
+  padding: 20px;
+
+  background-color: white;
+  border-radius: 10px;
+
+  box-shadow: 0 0 30px rgba(0, 0, 0, .1);
+}
